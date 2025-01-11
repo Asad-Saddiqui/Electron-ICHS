@@ -1,0 +1,25 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+.ant-menu-light .ant-menu-item-selected {
+  background-color: rgb(239 240 242);
+}
+
+.dashboard-table.ant-table-wrapper .ant-table-thead>tr>th {
+  background-color: white;
+}
+
+.ant-layout-footer {
+  padding: 18.5px 16.375px;
+}
+
+.ant-drawer .ant-drawer-footer {
+  padding: 0px 0px;
+}
+
+.ant-drawer .ant-drawer-header {
+  padding: 0px 0px;
+
+}
